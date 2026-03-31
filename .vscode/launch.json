@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChatApplication",
+            "request": "launch",
+            "mainClass": "ChatApplication",
+            "projectName": "java_6b8ba5bb"
+        },
+        {
+            "type": "java",
             "name": "BankingSystem",
             "request": "launch",
             "mainClass": "BankingSystem",
